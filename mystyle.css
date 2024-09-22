@@ -8,10 +8,16 @@
   }
 
 
+  body {
+    font-size: 16px;
+    line-height: 1.5;
+  }
 
 
   html{
     scroll-behavior: smooth;
+    
+      font-size: 16px;
   }
 
   
@@ -402,6 +408,7 @@ div .dot{
   right: 59%;
 
 }
+
 div .dot .python{
   position: absolute;
   left:-70%;
@@ -1732,6 +1739,7 @@ transition: box-shadow 0.15s ease,transform 0.15s ease;
   margin-top: 20px;
   padding: 1rem;
 }
+
 
 
 
